@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 Hello world this is userA.
 Change by Christian Lab 2
 A second change by Christian Lab 2
+=======
+Hello world this is userA - Sri changes
+My own changes - Chrisitan Lab 3
+>>>>>>> 8dc157fddb5502bc8b56ca27ebcf5d03440d9c78
